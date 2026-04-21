@@ -53,8 +53,8 @@ class Prashant extends Developer {
 |--------|-------|-------------|
 | 🚗 **[SafeDrive](https://github.com/Prashant777B/SafeDrive)** | Flutter · Dart · Supabase | UK car insurance app with real actuarial pricing model, Supabase auth, postcode autocomplete |
 | 📊 **UK Renewable Energy Dashboard** | D3.js · JavaScript · ONS Data | Interactive multi-chart dashboard with brush-based cross-filtering & linked highlighting |
-| 🌐 **Flask Web App** | Python · Flask · HTML/CSS | Full-stack web application with templating, routing and database integration |
-| 🎮 **C# Game** | C# · Unity | Desktop game built with object-oriented game architecture |
+| 🌐 **[Cinelog](https://github.com/Prashant777B/CINELOG.git)** | Python · Flask · HTML/CSS | Full-stack web application with templating, routing and database integration |
+| 🎮 **[Claus-Quest](https://github.com/Prashant777B/Claus-Quest.git)** | C++ · Unity | Desktop game built with object-oriented game architecture |
 | ☕ **Java Projects** | Java · OOP | Backend and algorithmic projects showcasing core CS fundamentals |
 
 </div>
